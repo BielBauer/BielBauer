@@ -8,16 +8,15 @@
 <div>
 <div align="center">
 <a href="https://github.com/bielbauer">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielbauer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielbauer&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bielbauer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
+  
   ##
   
 <div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Biel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Biel-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img img align="right" src="https://i.picasion.com/pic92/011c40548faa8bac3cea6c5a79b81d62.gif" width="150" height="150" border="0"</a>
 </div>
   

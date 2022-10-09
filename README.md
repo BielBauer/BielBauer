@@ -1,4 +1,6 @@
 - 👋 Olá, Eu sou o Gabriel
+- 👨 Tenho 31 anos
+- ⚖️ Sou advogado mudando de carreira
 - 🎒 Atualmente curso Análise e Desenvolvimento de Sistemas na USCS
 - 🌱 Estou aprendendo Python e C#
 - 😄 Pronomes: ele/dele
@@ -8,8 +10,8 @@
 <div>
 <div align="center">
 <a href="https://github.com/bielbauer">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bielbauer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielbauer&layout=compact&langs_count=7&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bielbauer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielbauer&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##

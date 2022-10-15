@@ -1,6 +1,6 @@
 <div>
 <div style="display: inline_block"><br>
-<img img align="left" src="![image](https://user-images.githubusercontent.com/109309661/195968806-8eac3e73-0588-4494-8106-665f2c09493c.png) height="140" border="0"</a>
+<img img align="left" src="![image](https://drive.google.com/file/d/1OZRaf9z-Q3Y5dvAzVbWOY-r6vKG15SsH/view?usp=sharing) height="140" border="0"</a>
 </div>
 
 ##

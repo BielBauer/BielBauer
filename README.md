@@ -1,6 +1,6 @@
 <div>
 <div style="display: inline_block"><br>
-<img img align="left" src="https://imageup.me/9zq" height="140" border="0"</a>
+<img img align="left" src="https://imageup.me/images/capa-linkedin.png" width="140" border="0"</a>
 </div>
 
 ##

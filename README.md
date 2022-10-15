@@ -1,6 +1,6 @@
 <div>
 <div style="display: inline_block"><br>
-<img img align="left" src="https://imageup.me/images/capa-linkedin.png" width="140" border="0"</a>
+<a href="https://ibb.co/bd4tzsp"><img src="https://i.ibb.co/LpTKnx4/Linkedin-banner-geom-trico-azul-amarelo-criativo.png" alt="Linkedin-banner-geom-trico-azul-amarelo-criativo" border="0"></a>
 </div>
 
 ##

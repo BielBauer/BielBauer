@@ -1,6 +1,6 @@
 <div>
 <div align="center">
-<img src="https://i.ibb.co/7yPksBP/Linkedin-banner-geom-trico-azul-amarelo-criativo.png">
+<img src="https://i.ibb.co/KrTV57K/Linkedin-banner-geom-trico-azul-amarelo-criativo.png">
 </div>
 
 ##

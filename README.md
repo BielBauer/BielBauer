@@ -1,6 +1,7 @@
 <div>
 <div align="center">
-<img src="https://i.ibb.co/KrTV57K/Linkedin-banner-geom-trico-azul-amarelo-criativo.png">
+  <a href="https://github.com/bielbauer">
+  <img src="https://i.ibb.co/KrTV57K/Linkedin-banner-geom-trico-azul-amarelo-criativo.png">
 </div>
 
 ##

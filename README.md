@@ -7,7 +7,7 @@
 ##
 
 - 👋 Olá, Eu sou o Gabriel
-- 👨 Tenho 31 anos
+- 👨 Tenho 32 anos
 - ⚖️ Advogado em busca de novos ares na carreira
 - 🎒 Atualmente curso Análise e Desenvolvimento de Sistemas na USCS
 - 🌱 Estou aprendendo Python e C#

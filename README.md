@@ -10,7 +10,7 @@
 - 👨 Tenho 32 anos
 - ⚖️ Advogado em busca de novos ares na carreira
 - 🎒 Atualmente curso Análise e Desenvolvimento de Sistemas na USCS
-- 🌱 Estou aprendendo Python e C#
+- 🌱 Estou aprendendo Python, C e C#
 - 😄 Pronomes: ele/dele
 
 ##

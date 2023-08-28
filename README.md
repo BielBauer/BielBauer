@@ -28,7 +28,11 @@
 <img align="center" alt="Biel-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Biel-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Biel-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img img align="right" src="https://i.picasion.com/pic92/011c40548faa8bac3cea6c5a79b81d62.gif" width="150" height="150" border="0"</a>
+<img align="center" alt="Biel-HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img align="center" alt="Biel-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img align="center" alt="Biel-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Biel-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="right" src="https://i.picasion.com/pic92/011c40548faa8bac3cea6c5a79b81d62.gif" width="150" height="150" border="0"</a>
 </div>
   
   ##
